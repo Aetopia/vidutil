@@ -30,3 +30,4 @@ def main(videos):
 
 `vidutil` scripts must have a `main()` function in it.     
 Additionally you will need invoke `ffmpeg` in your script, the `vidutil` wrapper doesn't invoke `ffmpeg`.
+Drop on your scripts into the `scripts` directory.
